@@ -1,11 +1,6 @@
 import random
 
-## Welcome Screen
+## --- Welcome Screen ---
 
 print("EC2 Instance Generator")
-
-
-
-
-
 
