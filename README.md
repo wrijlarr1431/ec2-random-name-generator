@@ -32,3 +32,5 @@ cd ec2-name-generator
 ```bash
 python ec2_name_generator.py
 ```
+
+Linkedin: https://www.linkedin.com/in/larrylwright/
